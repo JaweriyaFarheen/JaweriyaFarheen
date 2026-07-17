@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaweriya-farheen-88035a321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jaweriyafarheen030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -52,13 +52,3 @@ Tool for visualizing and plotting signal data, supporting analysis and interpret
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaweriyaFarheen&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaweriyaFarheen&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=JaweriyaFarheen&style=flat-square&color=blue" alt="profile views" /></sub>
-</p>
