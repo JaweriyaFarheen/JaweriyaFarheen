@@ -1,84 +1,64 @@
-<h1 align="center">Hi 👋, I'm Jaweriya Farheen</h1>
-<h3 align="center">Cybersecurity Analyst & SOC Analyst Aspirant | Threat Detection · Incident Response · Vulnerability Assessment</h3>
+<h1 align="center">Jaweriya Farheen</h1>
+<h3 align="center">Cybersecurity Analyst | SOC Analyst Aspirant</h3>
 
 <p align="center">
-  🛡️ Passionate about defending enterprise environments and securing systems<br/>
-  🔍 Skilled in SIEM, log analysis, threat hunting, and CTF challenges<br/>
-  💻 B.E. Computer Science and Engineering, PDA College of Engineering<br/>
-  🚀 Turning security research into real-world detection tools
+  Security monitoring · Incident response · Log analysis · Vulnerability assessment · Threat detection
 </p>
 
 <p align="center">
-  <em>"Exploring the future through Cybersecurity."</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jaweriyafarheen030@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jaweriyafarheen030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧰 Tech & Tools
+## Professional Summary
 
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
+Cybersecurity Analyst and SOC Analyst aspirant with hands-on experience in security monitoring, incident response, log analysis, vulnerability assessment, threat detection, and CTF challenges. Proficient in Splunk, Wireshark, Nmap, Burp Suite, Metasploit, CyberChef, and VirusTotal, with a strong working knowledge of SIEM, MITRE ATT&CK, OWASP Top 10, Windows/Linux administration, and networking fundamentals. Focused on defending enterprise environments and continuously improving security operations.
 
-**Security:** SOC Monitoring · Incident Response · Threat Detection · Threat Hunting · Threat Intelligence · Log Analysis · Event Correlation · Vulnerability Assessment · Phishing Analysis · Malware Analysis · MITRE ATT&CK · OWASP Top 10 · Network Security
+## Education
 
-**Networking:** TCP/IP · DNS · HTTP/HTTPS · OSI Model
+**B.E., Computer Science and Engineering** — CGPA 8.29/10
+PDA College of Engineering, Kalaburagi, Karnataka
 
----
 
-### 📌 Pinned Projects
+## Projects
 
-- 🔎 **[Vulnerability Scanner](https://github.com/JaweriyaFarheen/vulnerability_scanner)** — Automated tool detecting SQL Injection and XSS across 50+ test endpoints, with ~90% detection accuracy, severity classification (Critical/High/Medium/Low), and automated remediation reports.
+**[Vulnerability Scanner](https://github.com/JaweriyaFarheen/vulnerability_scanner)**
+Tool detecting SQL Injection and XSS across 50+ test endpoints, achieving approximately 90% detection accuracy, with automated severity classification (Critical / High / Medium / Low) and remediation reports — reducing manual review time by an estimated 60%.
 
-- 💬 **Secure Chat Application** — Real-time secure chat app (MERN stack) with AES-256/RSA-2048 end-to-end encryption, JWT authentication, Socket.IO real-time messaging, and role-based user management.
+**[Secure Chat Application](https://github.com/JaweriyaFarheen/CipherChat)**
+Real-time secure chat application built on the MERN stack, implementing AES-256/RSA-2048 end-to-end encryption, JWT authentication, Socket.IO-based real-time messaging, and role-based user management.
 
-- 🕵️ **Digital Deception Detection for AI-Generated Images** — Multi-modal deepfake detection model trained on 2,000 images (1,000 real / 1,000 AI-generated), achieving 69.64% accuracy and 70% precision/recall/F1.
+**[Social Media Spam Detection using MapReduce](https://github.com/JaweriyaFarheen/Social_media_spam_detection_using_mapreduce)**
+Distributed spam classification pipeline built on the MapReduce paradigm to process and analyze large-scale social media data, enabling efficient detection of spam content at scale.
 
----
+**[Bidder — The Auction Platform (MERN Stack)](https://github.com/JaweriyaFarheen/Bidder-The-Aution-platform-with-MERN-stack)**
+Full-stack online auction platform built with MongoDB, Express, React, and Node.js, supporting real-time bidding, user authentication, and listing management.
 
-### 🎓 Education
-**B.E. in Computer Science and Engineering** — CGPA 8.29/10, PDA College of Engineering, Kalaburagi, Karnataka
+**[Signal Plotter](https://github.com/JaweriyaFarheen/Signal_Plotter)**
+Tool for visualizing and plotting signal data, supporting analysis and interpretation of waveform/signal patterns for engineering and data analysis use cases.
 
-### 🏆 Certifications
-- SOC Analyst – Hack The Box
-- Won CTF – CYSECK
-- Cybersecurity MOOC Course – CYSECK
-- Cybersecurity Course – Skill India
-- Ethical Hacking Certificate – NASSCOM
-- AICTE Internship Certificate
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Security** | SOC Monitoring, SIEM (Splunk), Incident Response, Threat Detection, Threat Hunting, Threat Intelligence, Log Analysis, Event Correlation, Vulnerability Assessment, Phishing Analysis, Malware Analysis, MITRE ATT&CK, OWASP Top 10, Network Security |
+| **Tools** | Splunk, Wireshark, Nmap, Burp Suite, Metasploit, CyberChef, VirusTotal, Wappalyzer, Nessus |
+| **Programming** | Python, C, SQL (Basic), Bash (Basic), PowerShell (Basic) |
+| **Operating Systems** | Windows, Linux (Kali Linux, Ubuntu) |
+| **Networking** | TCP/IP, DNS, HTTP/HTTPS, OSI Model |
+
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaweriyaFarheen&show_icons=true&theme=tokyonight&count_private=true" alt="Jaweriya's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaweriyaFarheen&theme=tokyonight" alt="Jaweriya's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaweriyaFarheen&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaweriyaFarheen&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaweriyaFarheen&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaweriyaFarheen&style=flat-square&color=blue" alt="profile views" />
+  <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=JaweriyaFarheen&style=flat-square&color=blue" alt="profile views" /></sub>
 </p>
