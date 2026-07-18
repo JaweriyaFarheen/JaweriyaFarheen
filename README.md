@@ -38,26 +38,10 @@
 
 - 🔎 **[Vulnerability Scanner](https://github.com/JaweriyaFarheen/vulnerability_scanner)** — Detects SQL Injection and XSS across 50+ endpoints with ~90% accuracy and automated severity reports
 - 💬 **[CipherChat](https://github.com/JaweriyaFarheen/CipherChat)** — Secure real-time chat app with AES-256/RSA-2048 encryption and JWT auth
-- 🕵️ **Digital Deception Detection** — Multi-modal deepfake image classifier, 69.64% accuracy
 - 📊 **[Social Media Spam Detection](https://github.com/JaweriyaFarheen/Social_media_spam_detection_using_mapreduce)** — Spam classification at scale using MapReduce
 - 🛒 **[Bidder](https://github.com/JaweriyaFarheen/Bidder-The-Aution-platform-with-MERN-stack)** — Real-time auction platform built on the MERN stack
 - 📈 **[Signal Plotter](https://github.com/JaweriyaFarheen/Signal_Plotter)** — Signal visualization and analysis tool
 
----
 
-### 🏆 Certifications
 
-`SOC Analyst – Hack The Box`   `CTF Winner – CYSECK`   `Ethical Hacking – NASSCOM`   `Cybersecurity – Skill India`
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaweriyaFarheen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaweriyaFarheen&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaweriyaFarheen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
