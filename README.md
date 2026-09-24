@@ -36,12 +36,9 @@
 
 ### 📌 Featured projects
 
+- 🕵️ **[Digital Deception Detection for AI-Generated Images](https://github.com/JaweriyaFarheen/digital-deception-detection)** — Multi-modal deepfake detection model trained on 2,000 real/AI-generated images, achieving 69.64% accuracy
 - 🔎 **[Vulnerability Scanner](https://github.com/JaweriyaFarheen/vulnerability_scanner)** — Detects SQL Injection and XSS across 50+ endpoints with ~90% accuracy and automated severity reports
 - 💬 **[CipherChat](https://github.com/JaweriyaFarheen/CipherChat)** — Secure real-time chat app with AES-256/RSA-2048 encryption and JWT auth
 - 📊 **[Social Media Spam Detection](https://github.com/JaweriyaFarheen/Social_media_spam_detection_using_mapreduce)** — Spam classification at scale using MapReduce
 - 🛒 **[Bidder](https://github.com/JaweriyaFarheen/Bidder-The-Aution-platform-with-MERN-stack)** — Real-time auction platform built on the MERN stack
 - 📈 **[Signal Plotter](https://github.com/JaweriyaFarheen/Signal_Plotter)** — Signal visualization and analysis tool
-
-
-
-
