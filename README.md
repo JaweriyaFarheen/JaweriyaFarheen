@@ -13,9 +13,7 @@
   <a href="mailto:jaweriyafarheen030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaweriyaFarheen&style=for-the-badge&color=0A66C2" alt="profile views" />
-</p>
+
 
 ---
 
